@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "TDiN1//5RemV8Dglc6U8ZMMiin4r220hWJ5SvYyGlEk=",
+  "Source": "Cartful.Service",
+  "BasePath": "_content/Cartful.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Cartful.Service\\wwwroot",
+      "Source": "Cartful.Service",
+      "ContentRoot": "C:\\Users\\Brad\\Documents\\KSU_Code\\List\\Cartful.service\\wwwroot\\",
+      "BasePath": "_content/Cartful.Service",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Brad\\Documents\\KSU_Code\\List\\Cartful.service\\wwwroot\\index.html",
+      "SourceId": "Cartful.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Brad\\Documents\\KSU_Code\\List\\Cartful.service\\wwwroot\\",
+      "BasePath": "_content/Cartful.Service",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

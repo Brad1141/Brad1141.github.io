@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Brad\\Documents\\KSU_Code\\List\\Cartful.service\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Cartful.Service.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Cartful.Service.props",
+      "PackagePath": "build\\Cartful.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Cartful.Service.props",
+      "PackagePath": "buildMultiTargeting\\Cartful.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Cartful.Service.props",
+      "PackagePath": "buildTransitive\\Cartful.Service.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
